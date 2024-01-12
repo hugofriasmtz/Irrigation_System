@@ -1,26 +1,32 @@
-# Sistema de Administración de Tiempo para Torre de Ayuda
+# Water Tower Management System
 
-Este repositorio contiene el código fuente de un sistema de administración de tiempo diseñado para una torre de ayuda. El sistema está desarrollado utilizando las siguientes tecnologías:
-
-- **Servidor Local:**
+This repository contains the source code for a time management system designed for a water tower. The system is developed using the following technologies:
+- **Local Server:**
   - XAMPP
 
-- **Lenguaje Principal:**
+- **Primary Language:**
   - PHP
 
-- **Gestor de Base de Datos:**
+- **Database Management System:**
   - MySQL (a través de PHPMyAdmin en XAMPP)
 
-- **Diseño y Estilos:**
+- **Design and Styles:**
   - Bootstrap
 
-## Requisitos del Sistema
+## System Requirements
 
-Asegúrate de tener instalado [XAMPP](https://www.apachefriends.org/index.html) en tu máquina para ejecutar este sistema de administración de tiempo. XAMPP proporciona un entorno de desarrollo local que incluye Apache, MySQL, PHP y PHPMyAdmin.
+Ensure that you have [XAMPP](https://www.apachefriends.org/index.html) installed on your machine to run this time management system. XAMPP provides a local development environment that includes Apache, MySQL, PHP, and PHPMyAdmin.
 
-## Configuración del Proyecto
+## Installation
 
-1. Clona este repositorio en tu máquina local:
+1. Clone this repository to your local machine:
 
    ```bash
    git clone https://github.com/hugofriasmtz/Irrigation_System.git
+
+2. Start XAMPP and ensure that Apache and MySQL are running
+3. Import the included databaBase (irrigation_system.sql) through PHPMyAdmin or any preferred method.
+4. Open the projet in your web browser
+   ```sh
+   http://localhost/Irrigation_System
+   ``` 
