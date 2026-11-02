@@ -5,7 +5,7 @@ This repository contains the source code for a time management system designed f
   - XAMPP
 
 - **Primary Language:**
-  - PHP
+  - PHP 8.3
 
 - **Database Management System:**
   - MySQL (a través de PHPMyAdmin en XAMPP)
