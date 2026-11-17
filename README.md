@@ -32,4 +32,4 @@ Ensure that you have [XAMPP](https://www.apachefriends.org/index.html) installed
    ``` 
 
 ## Contruccion
-vamos a actualizar la version de php
+vamos a actualizar la version de php 8.4
